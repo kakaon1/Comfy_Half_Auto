@@ -12,4 +12,3 @@
 github에 추가적으로 올린 파일을 받아서 파일이 있는 경로로 이동 후.
 
 "python -s -m pip install triton-3.2.0-cp312-cp312-win\_amd64.whl" 명령어를 사용하여 해결.
-# Comfy_Half_Auto
