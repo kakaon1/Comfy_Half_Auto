@@ -3,9 +3,11 @@
 유튜브 사용법은 Youtube 영상으로 대체합니다.
 
 유튜브 시청 전 필수 위치지정.
-"ComfyUI_자동화" 라는 폴더를 바탕화면에 생성하여, Comfy_Half_Auto_Python.ps1을 마우스 우클릭으로 실행해주세요.
+"ComfyUI_자동화" 라는 폴더를 바탕화면에 생성하여, Comfy_Half_Auto_Python.bat을 마우스 우클릭 관리자 권한으로 실행해주세요.
 
-유튜브 영상 : https://youtu.be/nvdp1UC3oX8
+유튜브 영상 : https://youtu.be/hOYTNOxxSA0
+
+나머지는 유튜브 영상을 참고하여 설치해주세요.
 
 # Triton이 설치가 자동으로 안될때.
 
